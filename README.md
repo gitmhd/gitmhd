@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br>Hey, human being! I'd like to share a little about myself:<br><br>🚀 I'm currently working on something cool.<br>💻 I'm learning the C programming language.<br>🤝 I'm looking forward to collaborating with skilled C developers.<br><br>📬 Have any questions or want to reach me? <br>Please feel free to contact me at: contact@mouhammad.tech<br>
+<br>Hey, human being! I'd like to share a little about myself:<br><br>🚀 I'm currently working on something cool.<br>💻 I'm learning the C programming language.<br>🤝 I'm looking forward to collaborating with skilled C developers.<br><br>📬 Have any questions or want to reach me? <br>Please feel free to contact me at: contact@mouhammad.tech<br>
 
 
 ## 🌐 Socials:
